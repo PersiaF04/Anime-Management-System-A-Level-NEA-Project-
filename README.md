@@ -39,7 +39,7 @@ For a visual demonstration and overview of the project, please refer to the [NEA
 
 **Documentation**
 
-My project documentation provides an insight into my overall development process and outlines the challenges and difficulties I encountered during its completion.[NEA Documentation](AMS/NEA%20Documentation/AMS%20NEA%20Documentation.pdf)
+My project documentation provides an insight into my overall development process and outlines the challenges and difficulties I encountered during its completion. [NEA Documentation](AMS/NEA%20Documentation/AMS%20NEA%20Documentation.pdf)
 
 
 Due to the frequent updates of Visual Studio, the functionality of this project has been affected, and it may not perform as smoothly as it once did.
