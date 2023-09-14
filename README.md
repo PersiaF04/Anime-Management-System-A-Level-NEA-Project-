@@ -38,7 +38,8 @@ Administrators have all the capabilities of regular users, but they also possess
 For a visual demonstration and overview of the project, please refer to the [NEA Showcase Video](https://www.youtube.com/watch?v=l60foY5t5j0).
 
 **Documentation**
-My project documentation provides an insight into my overall development process and outlines the challenges and difficulties I encountered during its completion.[NEA Documentation](AMS/)
+
+My project documentation provides an insight into my overall development process and outlines the challenges and difficulties I encountered during its completion.[NEA Documentation](AMS/NEA Documentation)
 
 Due to the frequent updates of Visual Studio, the functionality of this project has been affected, and it may not perform as smoothly as it once did.
 
