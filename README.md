@@ -37,7 +37,7 @@ Administrators have all the capabilities of regular users, but they also possess
 
 For a visual demonstration and overview of the project, please refer to the [NEA Showcase Video](https://www.youtube.com/watch?v=l60foY5t5j0).
 
-**Documentation**
+**Documentation:**
 
 My project documentation provides an insight into my overall development process and outlines the challenges and difficulties I encountered during its completion.
 
